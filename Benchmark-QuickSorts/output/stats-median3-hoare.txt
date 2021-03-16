@@ -1,0 +1,3 @@
+Total number of swaps: 169508
+Total number of recursive calls: 110985
+Execution time: 15 ms
