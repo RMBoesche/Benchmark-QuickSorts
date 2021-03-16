@@ -16,7 +16,7 @@ There are 3 input files already in the input folder:
 - entrada-mini.txt
 - entrada-gigante.txt
 
-There will be 2 outputs file, one with the vectors sorted 
+There will be 2 outputs files, one with the vectors sorted 
 and the other with stats of the quickSort tested.
 
 This second output file will give: 
