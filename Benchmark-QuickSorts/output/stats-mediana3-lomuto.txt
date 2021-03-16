@@ -1,0 +1,3 @@
+Numero total de swaps: 23396188
+Numero total de chamadas recursivas: 3740307
+Tempo de execucao: 5444 ms
