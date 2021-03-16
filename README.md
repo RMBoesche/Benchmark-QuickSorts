@@ -29,7 +29,7 @@ There are 3 input files already in the input folder:
 There will be 2 outputs files for each quickSort (total 8 output files), one with the vectors sorted 
 and the other with stats of the quickSort tested.
 
-This stats output file will give: 
+The stats output file will give: 
 - Total number of swaps.
 - Total number of recursive call.
 - Execution time. (for ALL the vectors in the input file)
