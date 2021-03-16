@@ -6,9 +6,17 @@ and 2 types of pivoting for each partitioning:
 - Random and Median of 3.
 
 The input file should be a .txt file with the structure like this:
-entrada.txt - example:
-2 <-(number of vectors)
-3 <-(size) 4 2 5 <-(elements)
+
+(number of vectors) 
+
+(size)  (elements)
+
+Example - input.txt: 
+
+2 
+
+3 4 2 5 
+
 5 7 9 1 4 2
 
 There are 3 input files already in the input folder:
