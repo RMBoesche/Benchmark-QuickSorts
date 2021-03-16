@@ -1,5 +1,6 @@
 # Benchmark-QuickSorts
 This program test the eficiency of 4 distincts quickSorts.
+
 2 types of partitioning:
 - Lomuto and Hoare. 
 
